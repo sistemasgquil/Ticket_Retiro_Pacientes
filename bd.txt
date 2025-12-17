@@ -1,0 +1,116 @@
+-- HECHO CON VISUAL STUDIO 2013
+
+-- Create Database PSICOLOGA        use PSICOLOGA
+CREATE TABLE INFORME
+(
+codigo varchar(20) primary key
+,Nombres char(60) not null
+,fe_nac datetime null
+,edad int null
+,est_civil char(20) null
+,conyuge char(60)null
+,hijos int default(0)
+,grado_instru varchar(30) null
+,domicilio varchar(200)null
+,telf_fijo varchar(30)null
+,telf_cel varchar(30)null
+,ministerio int null
+,pastor int null
+,cursos_eclesiasticos varchar(60) null
+,pruebas_psicom varchar(400) null
+,motivo_entrev varchar(400) null
+,antec_familiar varchar(400) null
+,problemat_actual varchar(400) null
+,analisis_clinico varchar(400) null
+,resultados varchar(400) null
+,estado int default(1)
+)
+
+go
+
+Create table Agenda
+(
+codigo int primary key
+,dia int 
+,mes int
+,anio int
+,hora_ini varchar(5)
+,hora_fin varchar(5)
+,evento varchar(100)
+,nivel char(10) default('medio')
+)
+
+go
+
+Create procedure SpManteInforme
+@opc int	
+,@codigo	varchar(20)
+,@Nombres	char(60) =null
+,@fe_nac	datetime=null
+,@edad	int=null
+,@est_civil	char(20)=null
+,@conyuge	char(60)=null
+,@hijos	int=null
+,@grado_instru	varchar(30)=null
+,@domicilio	varchar(200)=null
+,@telf_fijo	varchar(30)=null
+,@telf_cel	varchar(30)=null
+,@ministerio	int=null
+,@pastor	int=null
+,@cursos_eclesiasticos	varchar(60)=null
+,@pruebas_psicom	varchar(400)=null
+,@motivo_entrev	varchar(400)=null
+,@antec_familiar	varchar(400)=null
+,@problemat_actual	varchar(400)=null
+,@analisis_clinico	varchar(400)=null
+,@resultados	varchar(400)=null
+,@estado int=null
+as
+If @opc=1
+Begin
+	if exists (select codigo from INFORME(NOLOCK) where codigo = @codigo)
+	Begin  -- Update
+
+
+	End
+		Else -- Insert
+
+
+End
+If @opc=2
+Begin
+		--Update Estado
+End
+
+If @opc=3
+Begin  -- Consulta
+
+Begin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

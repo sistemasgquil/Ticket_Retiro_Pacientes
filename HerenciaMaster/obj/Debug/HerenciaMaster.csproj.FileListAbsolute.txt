@@ -1,0 +1,39 @@
+c:\users\guillermo\documents\visual studio 2013\Projects\HerenciaMaster\HerenciaMaster\bin\Debug\HerenciaMaster.exe
+c:\users\guillermo\documents\visual studio 2013\Projects\HerenciaMaster\HerenciaMaster\bin\Debug\HerenciaMaster.pdb
+c:\users\guillermo\documents\visual studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.csprojResolveAssemblyReference.cache
+c:\users\guillermo\documents\visual studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Form1.resources
+c:\users\guillermo\documents\visual studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Form2Hijo.resources
+c:\users\guillermo\documents\visual studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Form3Hijo.resources
+c:\users\guillermo\documents\visual studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Properties.Resources.resources
+c:\users\guillermo\documents\visual studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.csproj.GenerateResource.Cache
+c:\users\guillermo\documents\visual studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.exe
+c:\users\guillermo\documents\visual studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.pdb
+C:\Users\acueva\Documents\Visual Studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.exe
+C:\Users\acueva\Documents\Visual Studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.pdb
+C:\Users\acueva\Documents\Visual Studio 2013\Projects\HerenciaMaster\HerenciaMaster\bin\Debug\HerenciaMaster.exe
+C:\Users\acueva\Documents\Visual Studio 2013\Projects\HerenciaMaster\HerenciaMaster\bin\Debug\HerenciaMaster.pdb
+C:\Users\acueva\Documents\Visual Studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Form1.resources
+C:\Users\acueva\Documents\Visual Studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Form2Hijo.resources
+C:\Users\acueva\Documents\Visual Studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Form3Hijo.resources
+C:\Users\acueva\Documents\Visual Studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Properties.Resources.resources
+C:\Users\acueva\Documents\Visual Studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.csproj.GenerateResource.Cache
+C:\Users\acueva\Documents\Visual Studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Form4.resources
+C:\Users\acueva\Documents\Visual Studio 2013\Projects\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.csprojResolveAssemblyReference.cache
+C:\Users\acueva\Documents\Visual Studio 2013\Projects\HerenciaMaster\HerenciaMaster\bin\Debug\HerenciaMaster.exe.config
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\bin\Debug\HerenciaMaster.exe.config
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\bin\Debug\HerenciaMaster.exe
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\bin\Debug\HerenciaMaster.pdb
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Form1.resources
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Form2Hijo.resources
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Form3Hijo.resources
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Form4.resources
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.FrmConsultar.resources
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.FrmLogeo.resources
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Properties.Resources.resources
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.csproj.GenerateResource.Cache
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\RdlCompile.cache
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\RdlCompile.compiled
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.exe
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.pdb
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.csprojResolveAssemblyReference.cache
+C:\FUENTES ORIGINALES\HerenciaMaster\HerenciaMaster\obj\Debug\HerenciaMaster.Form5HijoFundacion.resources
